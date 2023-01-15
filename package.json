@@ -1,0 +1,26 @@
+{
+  "name": "fetch-api",
+  "version": "1.0.0",
+  "description": "Javascript ile fetch API uygulaması",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "inserveofgod",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InServeOfGod/fetch-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/InServeOfGod/fetch-api/issues"
+  },
+  "homepage": "https://github.com/InServeOfGod/fetch-api#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "express": "^4.18.1",
+    "jquery": "^3.6.1"
+  }
+}
